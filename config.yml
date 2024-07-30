@@ -1,0 +1,13 @@
+ #############################
+ # Permiss?o: luz.usar       #
+ # comandos : /luz           #     
+ # Criador: yurirp4          #
+ # Skype: Filipe Silva amy   #
+ # version: 1.8              #
+ # plugin 90% Editavel       #
+ #############################
+
+Luz_off: '&c● Luz Desativada'
+#msg ao usar o /luz off
+Luz_on: '&e● Luz Ativada'
+#msg ao usar o /luz on

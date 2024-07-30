@@ -1,0 +1,11 @@
+name: MsLuz
+version: 1.8
+author: yurirp4
+main: MsLuz.Main
+Dependencies: [ActionBarAPI]
+permission: [luz.usar]
+Description: MsLuz Mais Um Plugin Da Linha MsPlugins
+commands:
+  luz:
+    aliases: [lanterna,light]
+    description: Use Para Iluminar Seu Caminho
